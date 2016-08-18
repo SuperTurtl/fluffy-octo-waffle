@@ -1,0 +1,5 @@
+lib/**
+Build/**
+build/**
+CMakeFiles/**
+CMakeCach.txt
